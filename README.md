@@ -11,14 +11,14 @@ This project aims to analyze public sentiment towards the Pfizer COVID-19 vaccin
   - Negative (Skeptical or adverse reactions)
   - Neutral (Informational or indifferent tweets)
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Programming Language:** Python
 - **Libraries:**
   - `pandas` 
   - `nltk` & `TextBlob` 
   - `matplotlib` & `seaborn`
 
-## 🔧 Installation
+## Installation
 To set up the environment and dependencies, follow these steps:
 
 ```bash
@@ -35,15 +35,15 @@ directly load .ipynb file and run on Google colab
 
 ```
 
-## 🚀 Results & Findings
+## Results & Findings
 - The analysis reveals key trends in public sentiment towards the Pfizer vaccine.
 - A majority of tweets are **positive**, reflecting public trust.
 - Some negative tweets highlight **concerns regarding side effects**.
 - Neutral tweets mainly consist of **news articles and official announcements**.
 
-## 📌 Future Enhancements
+## Future Enhancements
 - Use **Topic Modeling** (LDA) to identify key concerns and discussions.
 - Deploy a trained model as a **real-time sentiment analysis API**.
 
-## 📝 License
+## License
 This project is licensed under the [MIT License](https://github.com/veydantkatyal/pfizer-sentiment-analysis/blob/main/LICENSE)
